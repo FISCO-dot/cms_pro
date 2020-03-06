@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cms_project
 
 > peoject_1:通讯
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# goldMiner
+>>>>>>> 72a7fb8453bc0a53ded0abaf1cf9818f547f40e4
